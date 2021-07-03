@@ -5,6 +5,9 @@
     flex-direction: column;
     background-color: #eee;
 }
+#sub-title{
+    color: rgb(90, 90, 90);
+}
 #img-div{
     padding: 100px;
     padding-bottom: 20px;
