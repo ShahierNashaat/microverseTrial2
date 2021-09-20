@@ -1,43 +1,52 @@
-#main{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-color: #eee;
+#main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #eee;
 }
-#sub-title{
-    color: rgb(90, 90, 90);
+
+#sub-title {
+  color: rgb(90, 90, 90);
 }
-#img-div{
-    padding: 100px;
-    padding-bottom: 20px;
-    padding-top: 60px;
-    background-color: white;
-    text-align: center;
+
+#img-div {
+  padding: 100px;
+  padding-bottom: 20px;
+  padding-top: 60px;
+  background-color: white;
+  text-align: center;
 }
+
 #main #img-div img {
   align-content: center;
   width: 100%;
   height: auto;
 }
-#img-caption{
-    font-size: 17px;
+
+#img-caption {
+  font-size: 17px;
 }
-#tribute-info{
-    margin-top: 50px;
-    padding-left: 350px;
-    padding-right: 350px;
+
+#tribute-info {
+  margin-top: 50px;
+  padding-left: 350px;
+  padding-right: 350px;
 }
-span{
-    font-size: 20px;
+
+span {
+  font-size: 20px;
 }
-.year-span{
-    font-weight: bold;
+
+.year-span {
+  font-weight: bold;
 }
-.event-span{
-    color: rgb(44, 44, 44);
+
+.event-span {
+  color: rgb(44, 44, 44);
 }
-#tribute-link{
-    font-size: 20px;
-    color: #477ca7;
+
+#tribute-link {
+  font-size: 20px;
+  color: #477ca7;
 }
